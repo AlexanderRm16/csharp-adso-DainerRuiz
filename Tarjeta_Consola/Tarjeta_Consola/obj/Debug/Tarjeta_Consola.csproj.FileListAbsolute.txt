@@ -1,0 +1,7 @@
+C:\ADSO_C#_DainerRuiz\Sesion01\Tarjeta_Consola\Tarjeta_Consola\bin\Debug\Tarjeta_Consola.exe.config
+C:\ADSO_C#_DainerRuiz\Sesion01\Tarjeta_Consola\Tarjeta_Consola\bin\Debug\Tarjeta_Consola.exe
+C:\ADSO_C#_DainerRuiz\Sesion01\Tarjeta_Consola\Tarjeta_Consola\bin\Debug\Tarjeta_Consola.pdb
+C:\ADSO_C#_DainerRuiz\Sesion01\Tarjeta_Consola\Tarjeta_Consola\obj\Debug\Tarjeta_Consola.csproj.AssemblyReference.cache
+C:\ADSO_C#_DainerRuiz\Sesion01\Tarjeta_Consola\Tarjeta_Consola\obj\Debug\Tarjeta_Consola.csproj.CoreCompileInputs.cache
+C:\ADSO_C#_DainerRuiz\Sesion01\Tarjeta_Consola\Tarjeta_Consola\obj\Debug\Tarjeta_Consola.exe
+C:\ADSO_C#_DainerRuiz\Sesion01\Tarjeta_Consola\Tarjeta_Consola\obj\Debug\Tarjeta_Consola.pdb
